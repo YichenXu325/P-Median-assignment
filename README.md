@@ -1,5 +1,6 @@
 # P-Median-assignment
 Assignment Relative of Discrete Optimization
+
 IE 1144/IE 2144 – Discrete Optimization: Modeling and Computation
 Dept. of Industrial Engineering University of Pittsburgh
 Homework 1, due Date - September 28, 2020 before the start of the class
